@@ -1,5 +1,7 @@
 A/B Test Analysis Dashboard | Tableau + BigQuery
+
 · Stack: BigQuery · SQL · Tableau
+
 
 Data was extracted from Google BigQuery using a structured SQL query built with CTEs and window functions. Tableau is connected via a live connection, so the dashboard updates automatically — no manual refresh needed.
 
