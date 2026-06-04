@@ -1,4 +1,3 @@
-# A-B-testing-template-
 A/B Test Analysis Dashboard | Tableau + BigQuery
 · Stack: BigQuery · SQL · Tableau
 
